@@ -5,11 +5,8 @@ Database Schema Overview:
 Here's a brief overview of the tables you'll be working with:
 
 1) users: Contains user information such as usernames and creation timestamps.
-
 2) photos: Stores details about posted photos, including image URLs and user IDs.
-
 3) comments: Stores comments made on photos, along with associated user and photo IDs.
-
 4) likes: Tracks user likes on photos.
 5) follows: Records user follow relationships.
 6) tags: Manages unique tag names for photos.
