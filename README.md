@@ -4,24 +4,21 @@ Database Schema Overview:
 
 Here's a brief overview of the tables you'll be working with:
 
-users: Contains user information such as usernames and creation timestamps.
+1) users: Contains user information such as usernames and creation timestamps.
 
-photos: Stores details about posted photos, including image URLs and user IDs.
+2) photos: Stores details about posted photos, including image URLs and user IDs.
 
-comments: Stores comments made on photos, along with associated user and photo IDs.
+3) comments: Stores comments made on photos, along with associated user and photo IDs.
 
-likes: Tracks user likes on photos.
-
-follows: Records user follow relationships.
-
-tags: Manages unique tag names for photos.
-
-photo_tags: Links photos with associated tags.
+4) likes: Tracks user likes on photos.
+5) follows: Records user follow relationships.
+6) tags: Manages unique tag names for photos.
+7) photo_tags: Links photos with associated tags.
 
 
-Task:
+Task:-
 
-write SQL queries using a variety of advanced functions to extract valuable insights from the database. These insights could be used by the platform to understand user behavior, engagement, and trends. Each question is accompanied by a description of the task you need to accomplish.
+Write SQL queries using a variety of advanced functions to extract valuable insights from the database. These insights could be used by the platform to understand user behavior, engagement, and trends. Each question is accompanied by a description of the task you need to accomplish.
 
 Questions:
 1) How many times does the average user post?
